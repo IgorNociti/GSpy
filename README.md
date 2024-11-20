@@ -3,6 +3,9 @@ integrantes: Henrique Maciel Rodrigues / 559628 ; Igor Pereira Nociti / 560225 ;
 Sala: 1ESPS
 
 
+Link do video: https://youtu.be/wozqRQE-RaQ?si=dxHxDmNbgWHcBZOB
+
+
 Sistema de Gerenciamento de Consumo de Energia Elétrica ⚡
 📋 Descrição Este projeto é um sistema de gerenciamento de consumo de energia elétrica que permite simular o consumo de energia em uma residência, levando em consideração tanto o uso de dispositivos domésticos quanto a previsão de energia solar para o dia. Ele foi criado com o objetivo de ajudar os usuários a monitorar e otimizar seu consumo energético, com a possibilidade de comparar a geração de energia solar com o consumo doméstico.
 
